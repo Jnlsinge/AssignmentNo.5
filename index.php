@@ -7,10 +7,10 @@
 <body><center>
 	<h1>BeringJ Photo Gallery</h1>
 	<h2>List of Photos</h2>
-	<a href="photo1.html">Photo 1</a>
+	<a href="image1.php">Photo 1</a>
 	<br>
-	<a href="photo2.html">Photo 2</a>
+	<a href="image2.php">Photo 2</a>
 	<br>
-	<a href="photo3.html">Photo 3</a>
+	<a href="image3.php">Photo 3</a>
 </body>
 </html>
