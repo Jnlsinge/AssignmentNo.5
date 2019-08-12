@@ -13,4 +13,4 @@
 	<br>
 	<a href="image3.php">Photo 3</a>
 </body>
-</html>
+
